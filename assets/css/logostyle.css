@@ -48,17 +48,27 @@
 }
 
 #sponsor1>.front {
-  background: url(../images/logotwitter.png) 0 0 no-repeat;
+  background: url(../images/sponsorlogo1.jpg) 0 0 no-repeat;
   background-size:300px 225px;
   z-index: 2;
 }
 #sponsor2>.front {
-  background: url(../images/logotwitter.png) 0 0 no-repeat;
+  background: url(../images/sponsorlogo2.jpg) 0 0 no-repeat;
   background-size:300px 225px;
   z-index: 2;
 }
 #sponsor3>.front {
-  background: url(../images/logotwitter.png) 0 0 no-repeat;
+  background: url(../images/sponsorlogo3.jpg) 0 0 no-repeat;
+  background-size:300px 225px;
+  z-index: 2;
+}
+#sponsor4>.front {
+  background: url(../images/sponsorlogo4.jpg) 0 0 no-repeat;
+  background-size:300px 225px;
+  z-index: 2;
+}
+#sponsor5>.front {
+  background: url(../images/sponsorlogo5.jpg) 0 0 no-repeat;
   background-size:300px 225px;
   z-index: 2;
 }
